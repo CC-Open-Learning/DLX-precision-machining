@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Cleaning Milling
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: f6382d163a7d0a14285ec902ede94189, type: 3}
+  - {fileID: 8300000, guid: 1203a19198b0acb488cb0dc5722deb02, type: 3}
+  - {fileID: 8300000, guid: 47230eb7249195a408946b0531efb04e, type: 3}
+  - {fileID: 8300000, guid: d2410f6bdc4a31d48828b97d3bb1042d, type: 3}
+  - {fileID: 8300000, guid: 674f29680959d5d45b00db7322c70c45, type: 3}
+  voiceOverSubtitles:
+  - When you finish your work you must clean the machine.
+  - 'You must use the appropriate tool, with a T-shaped end to pull the debris from
+    the grooves. '
+  - Cleaning the machine with your bare hand or a shop towel can cause injuries from
+    sharp metal shavings.
+  - Select the correct tool from the column on the right.
+  - Use it to clean the debris on the machine, by clicking and dragging.

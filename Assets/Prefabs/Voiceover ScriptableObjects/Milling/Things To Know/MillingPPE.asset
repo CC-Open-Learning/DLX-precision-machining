@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: MillingPPE
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 01defaadf2d666d4d82203dadf104336, type: 3}
+  - {fileID: 8300000, guid: d76c792a33449744895796d8b7cde9a2, type: 3}
+  - {fileID: 8300000, guid: 697e5229d3105da41867b12a76d68078, type: 3}
+  - {fileID: 8300000, guid: 75613960429759043b93d9807ba87e14, type: 3}
+  voiceOverSubtitles:
+  - Without PPE, you can get injured while operating the milling machine.
+  - You must wear tight-fitting clothes and safety eyewear.
+  - Long sleeves and loose clothing may get caught on the spindle, causing injuries.
+  - Add the correct PPE and clothes to the box on the right.

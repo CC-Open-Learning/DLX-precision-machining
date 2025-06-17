@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Safety Eyewear 2
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 0e18c7aff63274f48b31f3ea04385ff7, type: 3}
+  - {fileID: 8300000, guid: ae9d36915e02dfb48ab8e214070bb383, type: 3}
+  - {fileID: 8300000, guid: b262d89eee9c94c438b1c13acc8bc28e, type: 3}
+  - {fileID: 8300000, guid: ad9f68f6c15fb974bb43b8e2e86776f5, type: 3}
+  voiceOverSubtitles:
+  - Safety glasses, like all safety eyewear, are shatterproof and can protect your
+    eyes from flying debris.
+  - 'If you wear prescription glasses, you still need safety eyewear. '
+  - Safety goggles or a full face shield will fit around your glasses.
+  - A face shield can protect your whole face, too.

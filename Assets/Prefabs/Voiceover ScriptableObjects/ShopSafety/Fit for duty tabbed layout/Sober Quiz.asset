@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Sober Quiz
+  m_EditorClassIdentifier: 
+  section: 24
+  voiceOverClips:
+  - {fileID: 8300000, guid: 2b49c0bcb7dac86439d499eddc6a5425, type: 3}
+  - {fileID: 8300000, guid: a13f7bda5c86023408039006fa4c6dee, type: 3}
+  voiceOverSubtitles:
+  - Fill in the blank. Please select the correct answer and drag it over the sentence.
+  - Alcohol and drugs ______________ your ability to perform work safely.

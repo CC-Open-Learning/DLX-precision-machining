@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Alert and Awake 2
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: bbafd9182822e7b47a007aea406d253a, type: 3}
+  - {fileID: 8300000, guid: df93a7cc3ad902c43bd0299abed08d52, type: 3}
+  - {fileID: 8300000, guid: d7d8b510d511e9c4f944729380590027, type: 3}
+  - {fileID: 8300000, guid: 99be90b6b19b2f54c88f1709f0d5a1a7, type: 3}
+  voiceOverSubtitles:
+  - "Remember, your body and mind need a full night\u2019s sleep to function at their
+    best. "
+  - Caffeine can't replace sleep. Be sure to get enough sleep before working in the
+    shop.
+  - If you are tired, staying home might be the safest choice.
+  - Be professional and let your instructor know if you will be absent or late.

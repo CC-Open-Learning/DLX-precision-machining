@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 1.3 - Door Closed
+  m_EditorClassIdentifier: 
+  QuestionText: The door is kept closed, preventing sparks from flying out.
+  QuestionVoiceOver: {fileID: 8300000, guid: 28135e4bb20716746941479d6f4760a2, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: c592460eb022b1a4c94652291c4d902e, type: 2}
+    optionText: Continue
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 8300000, guid: 13c03c518789c9941b58d9e5cf5aacac, type: 3}
+  IsFeedback: 1
+  AnimationString: DoorClosed
+  IsLastScreen: 0

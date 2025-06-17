@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 4 - Emergency Stop
+  m_EditorClassIdentifier: 
+  QuestionText: What is the emergency procedure if your shirt gets caught in the
+    spindle?
+  QuestionVoiceOver: {fileID: 8300000, guid: 6780da183adb57e4ab23e54fc75aa386, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: cfefe6ca31da7584ea913e2c584c62b4, type: 2}
+    optionText: Main power switch
+    optionImage: {fileID: 21300000, guid: bbddfc09af6a7b541b8440ac345f4c93, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: aeb6cb984ae0c6640af4ce643d5c0737, type: 3}
+  - optionScreen: {fileID: 11400000, guid: 073449bfd339319419e228c3b408d43e, type: 2}
+    optionText: Brake
+    optionImage: {fileID: 21300000, guid: 0152cbd8e1643bc499f8e9d8b527ddc6, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: a55c226a583c89241b2a5019e0548e28, type: 3}
+  - optionScreen: {fileID: 11400000, guid: 560a72db47d85d94cab59a78986615c6, type: 2}
+    optionText: E-Stop
+    optionImage: {fileID: 21300000, guid: a1252c8a72d588a48a740248d04cf646, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 91b233de68c6b26479ca28d277f14221, type: 3}
+  IsFeedback: 0
+  AnimationString: 
+  IsLastScreen: 0

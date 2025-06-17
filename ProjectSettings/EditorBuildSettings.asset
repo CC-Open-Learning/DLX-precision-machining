@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ShopSafety/StartScene.unity
+    guid: ea3177695e8cded4ba734bfe78468650
+  - enabled: 1
+    path: Assets/Scenes/ShopSafety/HomeScene.unity
+    guid: 958610f93c155424294e900be13bee6c
+  - enabled: 1
+    path: Assets/Scenes/ShopSafety/FitForDutyTabbedLayout.unity
+    guid: 4aab8fe1e46ccd24a96dfa90d7febb58
+  - enabled: 1
+    path: Assets/Scenes/ShopSafety/WhatToWearTabbedLayout.unity
+    guid: 1021219b32b08dc498ab31371a655c85
+  - enabled: 1
+    path: Assets/Scenes/ShopSafety/PPETabbedLayout.unity
+    guid: eca3b939b6a298f43a50a4e28a7eb321
+  - enabled: 1
+    path: Assets/Scenes/ShopSafety/FFDPlaceholder.unity
+    guid: 05687934474376d428b747ffda702c05
+  - enabled: 1
+    path: Assets/Scenes/ShopSafety/LockerDragNDrop.unity
+    guid: 91af479ba7293b941819a1ea617eb8ff
+  - enabled: 1
+    path: Assets/Scenes/ShopSafety/DressTheWorker.unity
+    guid: 24dac5f61cbfaa64ba0607a3b15b0dfe
+  - enabled: 1
+    path: Assets/Scenes/Lathe Orientation/LatheStartScene.unity
+    guid: 215b6119f1f87bf47a7f09ff04c84533
+  - enabled: 1
+    path: Assets/Scenes/Lathe Orientation/LatheIntroduction.unity
+    guid: 86e57b010eb3c8642b04134a81b4a651
+  - enabled: 1
+    path: Assets/Scenes/Lathe Orientation/ThingsToKnow.unity
+    guid: b75e81227115c7d4a9ed62a254a6fca7
+  - enabled: 1
+    path: Assets/Scenes/Lathe Orientation/LatheMinigame.unity
+    guid: 760b34ea0c9e5634c895f0a5d7b7469f
+  - enabled: 1
+    path: Assets/Scenes/Milling Machine Orientation/MillingStartScene.unity
+    guid: 2137757c5127ecb409757d6d765e8db4
+  - enabled: 1
+    path: Assets/Scenes/Milling Machine Orientation/MillingIntroduction.unity
+    guid: ec6be7c6019623f4b9e2f83b16f5bc06
+  - enabled: 1
+    path: Assets/Scenes/Milling Machine Orientation/MillingThingsToKnow.unity
+    guid: 8fd264356917a384983a5f84321a67a7
+  - enabled: 1
+    path: Assets/Scenes/Milling Machine Orientation/MillingMinigame.unity
+    guid: 6aaba7c2f14bc1340b70c9a8784bf2a4
+  - enabled: 1
+    path: Assets/Scenes/Surface Grinder/GrinderStartScene.unity
+    guid: afac17a1d6c45c640a72240a1b33e6d9
+  - enabled: 1
+    path: Assets/Scenes/Surface Grinder/GrinderIntroduction.unity
+    guid: 2426e204e4ded7f44b0cf0c4a9c5cf98
+  - enabled: 1
+    path: Assets/Scenes/Surface Grinder/GrinderThingsToKnow.unity
+    guid: 97825bef55c1ada47909741641f361e8
+  - enabled: 1
+    path: Assets/Scenes/Surface Grinder/GrinderMinigame.unity
+    guid: 47cbe2af2d7f3e445b2829f557c91137
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: c88fc86cf4f895f4499c187d8da57545,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 3a82d09649d207246b52d8bed986e1d0,
+      type: 2}

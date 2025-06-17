@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: MeasuringWorkpiece
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: e5a1bad074ce9f84f9fb3664e37c74da, type: 3}
+  - {fileID: 8300000, guid: e4377ddac3bae83428659ccbeb939b53, type: 3}
+  - {fileID: 8300000, guid: 0d17ba86a010c694a97f0d91598f7f6c, type: 3}
+  - {fileID: 8300000, guid: 91be4ad5d5ac78a4c982a882c86b8828, type: 3}
+  voiceOverSubtitles:
+  - Do not measure your piece while it is beneath the grinder wheel while the grinder
+    is running.
+  - There is no guard between your hands and the wheel!
+  - Move the table as far to the side as possible to measure your piece.
+  - Click on the image where it is safe to measure your workpiece.

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d514f4c60fc194b95733db16f1ffc7, type: 3}
+  m_Name: Chuck Key
+  m_EditorClassIdentifier: 
+  description: You must always be holding the chuck key while it is in the chuck,
+    and you must never leave the key in the chuck before starting up the lathe.
+  title: Correct
+  popUpImage: {fileID: 21300000, guid: f484111cd8c0fd34098a328f1d9faf0b, type: 3}
+  audioClip: {fileID: 8300000, guid: e7096652480d77f4fa80d851c9ba92d7, type: 3}

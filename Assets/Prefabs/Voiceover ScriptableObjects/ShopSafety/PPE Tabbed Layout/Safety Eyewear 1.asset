@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Safety Eyewear 1
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: a7b6c01562cdbd34e842bdf3c1586078, type: 3}
+  - {fileID: 8300000, guid: 302876d2a15d9684ca6dbdea09490a66, type: 3}
+  - {fileID: 8300000, guid: 0bc570cc9e6d6e24f8ab1eacf3af7d1e, type: 3}
+  - {fileID: 8300000, guid: 724f919f4ec20c84a8fba8912802899f, type: 3}
+  voiceOverSubtitles:
+  - You must put on safety eyewear before you enter the shop, and wear it in the
+    shop at all times.
+  - Inspect your safety eyewear before use. Replace them if they are damaged or broken.
+  - Safety eyewear can protect your eyes from debris, like metal chips, or broken
+    cutting tools.
+  - They must have side shields to protect your eyes from every angle.

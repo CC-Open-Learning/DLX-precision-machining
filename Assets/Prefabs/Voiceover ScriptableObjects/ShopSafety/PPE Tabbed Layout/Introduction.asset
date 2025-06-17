@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Introduction
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 8cddbd3f55037544c8891d5897e5e993, type: 3}
+  - {fileID: 8300000, guid: 8b21843d905a1364ea332eabc7697d26, type: 3}
+  - {fileID: 8300000, guid: 8fe0c3284a81d3747a985ebbf828109d, type: 3}
+  - {fileID: 8300000, guid: b506b7b0cc5fe6145b7d38fdc003c754, type: 3}
+  - {fileID: 8300000, guid: 2727a12d031c386409d00ecf1ba6423f, type: 3}
+  - {fileID: 8300000, guid: 2dcd81a6960665a478bcc0b547d51ecc, type: 3}
+  - {fileID: 8300000, guid: 296ee2bb11b2f21438876e040bfb878c, type: 3}
+  - {fileID: 8300000, guid: cdd2500ba7769b94ea197a489cdb750d, type: 3}
+  - {fileID: 8300000, guid: 439210f647ca4ac4a9bf3e020b0102f8, type: 3}
+  - {fileID: 8300000, guid: 635f94f32d7e4fd4ba8bac32b977662e, type: 3}
+  - {fileID: 8300000, guid: 8c485b94affaa134eaebebe3e747de82, type: 3}
+  - {fileID: 8300000, guid: e2ac3dc2a0af1d843ada1785a4dfe88d, type: 3}
+  voiceOverSubtitles:
+  - Welcome to the Shop Safety Orientation!
+  - Here you will learn about working safely in the shop.
+  - What it means to be fit for duty...
+  - ...how you should dress to enter the shop...
+  - ...and the required Personal Protective Equipment.
+  - You can review the topics in any order, but you must complete all three.
+  - The settings button in the upper right corner lets you adjust the volume, or
+    disable subtitles.
+  - The settings menu lists helpful keyboard shortcuts.
+  - Press the letter S to toggle subtitles...
+  - ...the letter V to toggle the voice-over...
+  - ...and the letter T to turn on descriptive audio.
+  - 'Click one of the three options to start. '

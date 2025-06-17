@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: CuttingWorkpiecePanel
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 4a25b686468eb6b4ca1a51e9af302a37, type: 3}
+  - {fileID: 8300000, guid: 9c61bf517eec3f34dada0b2667b5f712, type: 3}
+  - {fileID: 8300000, guid: a082831f63a008945a497f7ac2707223, type: 3}
+  - {fileID: 8300000, guid: 4bf3d7340256ebf439026028a930e174, type: 3}
+  - {fileID: 8300000, guid: 4e92f97e8f1b8734fbbf289a52fde343, type: 3}
+  - {fileID: 8300000, guid: af693b9253c015c478ed46c937b8e4d1, type: 3}
+  voiceOverSubtitles:
+  - The grinder can only remove a small amount of material in a single cut.
+  - Cuts should never be larger than 0.001 inches.
+  - If the cut is too big it can jam the grinding wheel.
+  - This will cause damage to the wheel and the piece could be thrown off the table.
+  - 'Multiple Choice: Select the correct answer from the options below.'
+  - What can happen if you try to make a cut greater than 0.001 inches?

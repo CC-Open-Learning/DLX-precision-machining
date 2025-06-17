@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Attentive 2
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: f32c0aeda39631f42835bb8468e069e5, type: 3}
+  - {fileID: 8300000, guid: 211bcef727578784cb335ba30d5a5d28, type: 3}
+  - {fileID: 8300000, guid: f2dd4f90dd7f3124abec2b892f636395, type: 3}
+  voiceOverSubtitles:
+  - Avoid distractions and stay focused to prevent injury.
+  - Set your phone to do not disturb, or leave it in your locker to avoid distractions.
+  - Stay home if personal issues are distracting you.

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: WheelDoorPanel
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 8fc2325aed6b3b84a9e0676c7de09ce1, type: 3}
+  - {fileID: 8300000, guid: 5b43e71e4c6c4bc458eb1eafbecc5688, type: 3}
+  - {fileID: 8300000, guid: 0e3c7d7caf487b940a2c25a929e5aa9e, type: 3}
+  - {fileID: 8300000, guid: 6b304d71656f6784a86ac0da28393e5d, type: 3}
+  voiceOverSubtitles:
+  - You should never run the machine with the grinder wheel door open or missing.
+  - If the door is opened you should close it.
+  - If the door is missing you should contact your instructor.
+  - Identify what is wrong in the picture by clicking on the error.

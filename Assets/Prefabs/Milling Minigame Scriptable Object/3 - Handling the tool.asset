@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 3 - Handling the tool
+  m_EditorClassIdentifier: 
+  QuestionText: Select the image where the tool is being handled correctly.
+  QuestionVoiceOver: {fileID: 8300000, guid: e33e785f16887fb4d88fb056860a132b, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: b27af04892c56ad40a4a9076b9d1e896, type: 2}
+    optionText: By the blade
+    optionImage: {fileID: 21300000, guid: 37e63e17a58f95a43947e1035f886b79, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 7f190cd455ed2f54cb78d840c79cf004, type: 3}
+  - optionScreen: {fileID: 11400000, guid: 78ca4ff7c52fa7541badc0c43da35476, type: 2}
+    optionText: With gloves or rag
+    optionImage: {fileID: 21300000, guid: f67b56ff02b13f547bfd6805151a12b3, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 87135bc40de5cb8429924692090c30e9, type: 3}
+  - optionScreen: {fileID: 11400000, guid: 63d033f25edb0cf4b935835cb49d16db, type: 2}
+    optionText: From the top
+    optionImage: {fileID: 21300000, guid: 00e4a8b2481af6d418dd614678136e43, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: cecc7def47a1c34459e41a633262068c, type: 3}
+  IsFeedback: 0
+  AnimationString: 
+  IsLastScreen: 0

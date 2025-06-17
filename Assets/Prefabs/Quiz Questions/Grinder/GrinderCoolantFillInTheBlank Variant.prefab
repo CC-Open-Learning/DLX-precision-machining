@@ -1,0 +1,619 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1551236175425324002
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 484141905880455411, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 484141905880455411, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 506665854329946902, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 506665854329946902, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 506665854329946902, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 506665854329946902, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 506665854329946902, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 506665854329946902, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309609, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 534893503182309610, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Name
+      value: GrinderCoolantFillInTheBlank Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 595100392036056067, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: Id
+      value: coolant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1017697763455995078, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_text
+      value: slide
+      objectReference: {fileID: 0}
+    - target: {fileID: 1494354312028264983, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5afa933f64cfe524497d486b4db407b0,
+        type: 3}
+    - target: {fileID: 1494354312028264983, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.49019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 1516884881161716210, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1516884881161716210, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1516884881161716210, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1516884881161716210, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1516884881161716210, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1516884881161716210, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2025091041096830498, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_text
+      value: stop
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446144253427997229, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: answers.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446144253427997229, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446144253427997229, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446144253427997229, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446144253427997229, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446144253427997229, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_Complete
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446144253427997229, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SaveState, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446144253427997229, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2446144253427997229, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469845643848115091, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469845643848115091, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469845643848115091, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469845643848115091, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469845643848115091, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469845643848115091, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559618260638783184, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559618260638783184, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559618260638783184, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559618260638783184, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559618260638783184, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559618260638783184, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2790044892208202458, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: Id
+      value: overheat
+      objectReference: {fileID: 0}
+    - target: {fileID: 2790044892208202458, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AllowedPanels.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2790044892208202458, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AllowedPanels.Array.data[0]
+      value: coolant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2790044892208202458, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: OnDroppedSuccessfully.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: <b><u>overheat</u></b>
+      objectReference: {fileID: 0}
+    - target: {fileID: 2944856606261258401, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: d47b5f8870dfe7b438e801e64c7d5875, type: 3}
+    - target: {fileID: 2944856606261258401, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: CorrectAnswer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2944856606261258401, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: Correct! If the coolant nozzle is not positioned correctly the wheel
+        may overheat and possibly burst causing injuries.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204556908437600451, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204556908437600451, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204556908437600451, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204556908437600451, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204556908437600451, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3204556908437600451, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3465596125715595091, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: fde3096fda7eaaf408d76bba89c30302, type: 3}
+    - target: {fileID: 4221503258268200381, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_text
+      value: If the coolant nozzle is not positioned correctly the wheel may _____.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4221503258268200381, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 40.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5080833857959765985, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_text
+      value: overheat
+      objectReference: {fileID: 0}
+    - target: {fileID: 5661063176438292704, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5661063176438292704, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5661063176438292704, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5661063176438292704, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5661063176438292704, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5661063176438292704, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6638352667716202800, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 575e2906462578249bdf9ebd2797466c,
+        type: 3}
+    - target: {fileID: 6638352667716202800, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.49019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 6638352667716202800, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6638352667716202800, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6638352667716202800, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741931536133073621, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741931536133073621, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741931536133073621, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741931536133073621, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741931536133073621, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741931536133073621, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6936408446108631942, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 019c021528474bf42b4b0a5898fa6d48, type: 3}
+    - target: {fileID: 6936408446108631942, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: If the coolant nozzle is not positioned correctly the wheel may overheat.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7674252217622222480, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: b7e83505870b5c94a833907471d9d0f8, type: 3}
+    - target: {fileID: 7936770586474162685, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: Id
+      value: slide
+      objectReference: {fileID: 0}
+    - target: {fileID: 7936770586474162685, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AllowedPanels.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7936770586474162685, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AllowedPanels.Array.data[0]
+      value: coolant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7936770586474162685, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: OnDroppedSuccessfully.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8069786912636539309, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: m_Padding.m_Bottom
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8234292680783626594, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 019c021528474bf42b4b0a5898fa6d48, type: 3}
+    - target: {fileID: 8234292680783626594, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: CorrectAnswer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8234292680783626594, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: If the coolant nozzle is not positioned correctly the wheel may overheat.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8684466824966198388, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 70eb801f424e47d479c13a3d7cddaf9e, type: 3}
+    - target: {fileID: 8944172945856113433, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: Id
+      value: stop
+      objectReference: {fileID: 0}
+    - target: {fileID: 8944172945856113433, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AllowedPanels.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8944172945856113433, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: AllowedPanels.Array.data[0]
+      value: coolant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8944172945856113433, guid: 450fc865f23ffaf40b235fb4140a0af9,
+        type: 3}
+      propertyPath: OnDroppedSuccessfully.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 450fc865f23ffaf40b235fb4140a0af9, type: 3}
+--- !u!1 &1363266718581836552 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 534893503182309610, guid: 450fc865f23ffaf40b235fb4140a0af9,
+    type: 3}
+  m_PrefabInstance: {fileID: 1551236175425324002}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7550857963596347176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1363266718581836552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: 700
+  m_MinHeight: -1
+  m_PreferredWidth: -1
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
+--- !u!1 &5442890206224753176 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6777388415782281722, guid: 450fc865f23ffaf40b235fb4140a0af9,
+    type: 3}
+  m_PrefabInstance: {fileID: 1551236175425324002}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &934656056646158196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5442890206224753176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: a8a41c87b883f494da7241ceeeb2c703, type: 3}

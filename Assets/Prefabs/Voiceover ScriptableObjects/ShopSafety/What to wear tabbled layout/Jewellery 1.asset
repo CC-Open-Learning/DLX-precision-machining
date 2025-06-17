@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Jewellery 1
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 0c9063c8fcdb1d14d949b6c3cd901a7c, type: 3}
+  - {fileID: 8300000, guid: 3be4d55bdd68bd14491517b66e1262ab, type: 3}
+  - {fileID: 8300000, guid: 2bd8b9cadbe64814faffe1016c34ea32, type: 3}
+  - {fileID: 8300000, guid: 7e0ac51b975014a4c8a46a96b4c8962c, type: 3}
+  voiceOverSubtitles:
+  - Jewellery can be caught in tools and machines, and can also be attracted to magnetized
+    tools in the shop.
+  - 'Covering jewellery with a bandage or wrap is not enough to keep you safe. '
+  - 'Never wear jewellery of any kind in the machine shop! '
+  - The best choice is to leave your jewellery at home.

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d514f4c60fc194b95733db16f1ffc7, type: 3}
+  m_Name: Spindle
+  m_EditorClassIdentifier: 
+  description: The spindle rotates the workpiece. You could easily get tangled in
+    the spindle, so always dress appropriately for the shop. Never wear loose clothes,
+    pants, or sweaters with drawstrings.
+  title: Spindle
+  popUpImage: {fileID: 21300000, guid: 45dd7d1d704c1d44a924004505721a6e, type: 3}
+  audioClip: {fileID: 8300000, guid: 9c0371946190a9b47b11e257fe8e1afc, type: 3}

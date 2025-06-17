@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 5 - Cleaning the machine
+  m_EditorClassIdentifier: 
+  QuestionText: Select the correct tool to clean the milling machine.
+  QuestionVoiceOver: {fileID: 8300000, guid: 6f2598b51aa11c04b9ec66ef09ab10f2, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: 31c5f67e5e3eb2a48acfe9e00836ef6c, type: 2}
+    optionText: Shop Towel
+    optionImage: {fileID: 21300000, guid: f9329be1c11e670459f553222310a187, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 00451b5b9633b4b45aa7f61072c8df6e, type: 3}
+  - optionScreen: {fileID: 11400000, guid: de6fcb18d61ea1a44b23c6a0df4e0b41, type: 2}
+    optionText: Tool
+    optionImage: {fileID: 21300000, guid: 1b9f5ed36a9af1542b381f5276c3c7d9, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 4c1fe93629b5f5c4f99d53fbecffa380, type: 3}
+  - optionScreen: {fileID: 11400000, guid: 075842a8bdaba9f45b12d4ef0f2e2f9f, type: 2}
+    optionText: Hand
+    optionImage: {fileID: 21300000, guid: a1c67d070a3430a408d26fa9a3a5c501, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 20432f34dde0d7e4eaa121aad9dd44cd, type: 3}
+  IsFeedback: 0
+  AnimationString: 
+  IsLastScreen: 0

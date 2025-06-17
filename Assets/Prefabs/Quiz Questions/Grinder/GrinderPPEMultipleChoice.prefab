@@ -1,0 +1,638 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6598381291020689743
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 575e2906462578249bdf9ebd2797466c,
+        type: 3}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.6862745
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4187412507125552324, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5afa933f64cfe524497d486b4db407b0,
+        type: 3}
+    - target: {fileID: 4187412507125552324, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.6862745
+      objectReference: {fileID: 0}
+    - target: {fileID: 4187412507125552324, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5399091630136136736, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5afa933f64cfe524497d486b4db407b0,
+        type: 3}
+    - target: {fileID: 5399091630136136736, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.6862745
+      objectReference: {fileID: 0}
+    - target: {fileID: 5399091630136136736, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8154916463670387044, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Padding.m_Top
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8154916463670387044, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Padding.m_Left
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8154916463670387044, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Padding.m_Right
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8154916463670387044, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Padding.m_Bottom
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092770, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092770, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092770, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092770, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092771, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Safety Glasses
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092797, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b3bc9386788089e40862190845b725fd,
+        type: 3}
+    - target: {fileID: 8420312160539092797, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092799, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2337149c201ee8846b1b6cb90fedad85, type: 3}
+    - target: {fileID: 8420312160539092799, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: Good job! You must always wear safety glasses in the shop.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074696, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: GrinderPPEMultipleChoice
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483428, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 7429a1b795956fa46b1c08ddb9d423c4, type: 3}
+    - target: {fileID: 8420312160718483428, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: Safety shoes will protect your feet from flying or falling debris, but
+        not your eyes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483432, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Safety Shoes
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483434, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 555eeb56e58ef9e4e9560b0a748d3b4e,
+        type: 3}
+    - target: {fileID: 8420312160718483434, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483435, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483435, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483435, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483435, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194068, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2c7b3563f5ecce7428a1a79773580977, type: 3}
+    - target: {fileID: 8420312160840194068, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: It's a good idea to wear a short sleeved shirt to the shop to avoid
+        getting tangled in the machines, but it won't protect your eyes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194072, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: T-Shirt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194074, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 884a2f9036d26b04c8539d83d09b6491,
+        type: 3}
+    - target: {fileID: 8420312160840194074, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194075, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194075, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194075, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194075, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506089, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 44950e800742aa948a74bb186f0e4d6d,
+        type: 3}
+    - target: {fileID: 8420312161155506089, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506091, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 1b8d2aef99635334b8f5f40b210097ae, type: 3}
+    - target: {fileID: 8420312161155506091, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: You should use gloves to handle sharp metals and tools, but they won't
+        protect your eyes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506094, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506094, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506094, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506094, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996560, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_text
+      value: Which PPE can protect your eyes from flying debris and harsh coolant
+        vapours?
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8935404807865444865, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5afa933f64cfe524497d486b4db407b0,
+        type: 3}
+    - target: {fileID: 8935404807865444865, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.6862745
+      objectReference: {fileID: 0}
+    - target: {fileID: 8935404807865444865, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d15e0ef41d7ecc944a260aa541126172, type: 3}
+--- !u!1 &3407216793428330092 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312160539092771, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 6598381291020689743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9200022008445155928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3407216793428330092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: b660a0042c67c694eb38505539adf175, type: 3}
+--- !u!1 &3407216793664043351 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312160840194072, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 6598381291020689743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8526872863022725846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3407216793664043351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: d0179409c113497468637ae58a288eb4, type: 3}
+--- !u!1 &3407216793785847463 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312160718483432, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 6598381291020689743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6292822756887814263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3407216793785847463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: 7c5ee18500f83af40a4150c8ebf953e0, type: 3}
+--- !u!1 &3407216793885638368 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312161155506095, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 6598381291020689743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7421451173620392926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3407216793885638368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: 7c62310ca2ebf3c4eacd1592db6b7976, type: 3}
+--- !u!1 &3407216794765813593 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312161885996566, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 6598381291020689743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3890351939642445545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3407216794765813593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: 238f66d98e69db446b577b167794eeed, type: 3}

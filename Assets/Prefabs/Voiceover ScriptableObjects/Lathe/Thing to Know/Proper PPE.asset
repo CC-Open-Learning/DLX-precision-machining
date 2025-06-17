@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Proper PPE
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 0500a4d74c19d624793ecfb380070d01, type: 3}
+  - {fileID: 8300000, guid: 632da6485462b9f4f9d481f21ee13fa7, type: 3}
+  - {fileID: 8300000, guid: caab791782aac964b82668827af00d57, type: 3}
+  - {fileID: 8300000, guid: 43053340e1ba2564eaa3210dac2aea74, type: 3}
+  - {fileID: 8300000, guid: 528dfc59052414249913bac52f2181bf, type: 3}
+  voiceOverSubtitles:
+  - Wearing the correct clothes and PPE helps you be safe around the lathe.
+  - To be safe, wear tight-fitting clothes without drawstrings.
+  - Safety eyewear will keep your eyes safe from flying debris.
+  - Select all that apply. Drag all the correct answers to the answer box on the
+    left.
+  - Which items will keep you safe?

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 4 - Rotating cutter
+  m_EditorClassIdentifier: 
+  QuestionText: Should the rotating tool be touched?
+  QuestionVoiceOver: {fileID: 8300000, guid: 7d9ef8d6b7770bc4c92ecbf24d855de5, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: 7304bf641725f494184859ee48554733, type: 2}
+    optionText: Touch
+    optionImage: {fileID: 21300000, guid: 1e7131f5cba676843ac85cc7cc2d4b69, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 172c62a9eb01b4445b030c6169c464f8, type: 3}
+  - optionScreen: {fileID: 11400000, guid: 25d83c8238aaf6543a4968f704e1c9ea, type: 2}
+    optionText: Don't touch
+    optionImage: {fileID: 21300000, guid: b7bde05f28f0fd74888b6f680a37d278, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: bd47f00a26e64624b93af658b0685721, type: 3}
+  IsFeedback: 0
+  AnimationString: 
+  IsLastScreen: 0

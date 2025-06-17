@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d514f4c60fc194b95733db16f1ffc7, type: 3}
+  m_Name: Power
+  m_EditorClassIdentifier: 
+  description: When you turn the power switch, the indicator light will turn on.
+    If it doesn't, check the main power and the emergency stop or e-stop.
+  title: Power Switch
+  popUpImage: {fileID: 21300000, guid: 645b55cbe415c114396a329829d398af, type: 3}
+  audioClip: {fileID: 8300000, guid: 3f4279f867d260b449c8d60dae2bce68, type: 3}

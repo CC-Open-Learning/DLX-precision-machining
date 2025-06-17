@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 1 - Cleanup
+  m_EditorClassIdentifier: 
+  QuestionText: What should be done if there are tools on top of the lathe?
+  QuestionVoiceOver: {fileID: 8300000, guid: 602c1d901257a5d488520642a3543925, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: 1dadd33b7fbd5a84bbc4307edf209251, type: 2}
+    optionText: Leave tools where they are
+    optionImage: {fileID: 21300000, guid: 3e1ad0c3cd0be744ca2331f9841b63a8, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 36c55ad23226a3c49811563b6e1e54b3, type: 3}
+  - optionScreen: {fileID: 11400000, guid: eaa3d1167003bf842a813266c1f44678, type: 2}
+    optionText: Put tools away
+    optionImage: {fileID: 21300000, guid: 7482123fe695cbf42abadf329c39c537, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 4edd57628c2f6024c975f1df4fcc8dfe, type: 3}
+  IsFeedback: 0
+  AnimationString: 
+  IsLastScreen: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 3.3 - From the top
+  m_EditorClassIdentifier: 
+  QuestionText: Holding the tool from the top avoiding the blade keeps hands safe.
+  QuestionVoiceOver: {fileID: 8300000, guid: 4a5bbd66a0672d8499178b40e9710d64, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: b63698368030697478662f2887378ef3, type: 2}
+    optionText: Continue
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 8300000, guid: 13c03c518789c9941b58d9e5cf5aacac, type: 3}
+  IsFeedback: 1
+  AnimationString: CutterTop
+  IsLastScreen: 0

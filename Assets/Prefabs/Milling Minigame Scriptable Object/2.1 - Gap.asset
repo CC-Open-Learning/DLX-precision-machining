@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 2.1 - Gap
+  m_EditorClassIdentifier: 
+  QuestionText: There is a gap between the workpiece and the vise, the workpiece
+    is thrown from the table.
+  QuestionVoiceOver: {fileID: 8300000, guid: 64c93d6af0c44eb4885d03ac356abfc1, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: 6ad8c542d06d6234ca70b304dd4aed63, type: 2}
+    optionText: Try Again
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 8300000, guid: f6b4263e1be6ffc448fc2ea76080d359, type: 3}
+  IsFeedback: 1
+  AnimationString: Gap
+  IsLastScreen: 0

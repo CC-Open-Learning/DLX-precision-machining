@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Tool Storage Tab
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 2dff7876d3a01e64f8bff8343356d4f5, type: 3}
+  - {fileID: 8300000, guid: 365e3f0c3a1e6944ea076c222075b55d, type: 3}
+  - {fileID: 8300000, guid: 0727be75e1706a445a100961084a2c75, type: 3}
+  - {fileID: 8300000, guid: d099901fdfa1d2b41bb70f89c4c25714, type: 3}
+  - {fileID: 8300000, guid: 2f140a83043f32140976d307fd968d1e, type: 3}
+  - {fileID: 8300000, guid: b6cd07817c538c04988539c438774d8e, type: 3}
+  voiceOverSubtitles:
+  - Tools can be left on the machine while it's being set up,
+  - but must be stored before turning on the machine.
+  - Tools left on the machine can fall onto a rotating part and be thrown,
+  - harming yourself and others.
+  - 'Select the correct image from the options below. '
+  - Where should tools be kept when the machine is running?

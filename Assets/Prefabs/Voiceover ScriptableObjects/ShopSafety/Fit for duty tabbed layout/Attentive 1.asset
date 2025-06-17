@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Attentive 1
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: f5958188c32444349b310f4fbeec0877, type: 3}
+  - {fileID: 8300000, guid: cb88eecbf414f23498fea70fbeb08b02, type: 3}
+  - {fileID: 8300000, guid: 38c0025181f34d84c8ad0f713a95b020, type: 3}
+  - {fileID: 8300000, guid: fdc2d3cd3de328043adee9011f54b541, type: 3}
+  - {fileID: 8300000, guid: 3aa24ed11ab32fb4ea734fcea8b67e90, type: 3}
+  voiceOverSubtitles:
+  - NEVER be distracted in the shop!
+  - Recognizing and removing distractions lets you focus on working safely.
+  - An example of a physical distraction is cell phone notifications.
+  - Mental distractions could be personal or family issues.
+  - Performing repetitive tasks in a cluttered work environment also makes it easy
+    to lose focus.

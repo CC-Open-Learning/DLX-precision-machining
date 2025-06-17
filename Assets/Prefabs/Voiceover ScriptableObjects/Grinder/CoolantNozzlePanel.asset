@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: CoolantNozzlePanel
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 152fa44d0a2c5a847a14d4d4a860decb, type: 3}
+  - {fileID: 8300000, guid: 2009f15e6370f874592c41ee84d2edc8, type: 3}
+  - {fileID: 8300000, guid: e9bee2783c85f8e4b8434c2d12451f40, type: 3}
+  - {fileID: 8300000, guid: 2b49c0bcb7dac86439d499eddc6a5425, type: 3}
+  - {fileID: 8300000, guid: a8a41c87b883f494da7241ceeeb2c703, type: 3}
+  voiceOverSubtitles:
+  - The coolant nozzle needs to be positioned correctly to ensure proper cooling
+    of the wheel.
+  - The coolant needs to be directed to the point where the wheel meets the workpiece.
+  - If it is too low or too high it is not effective and the wheel may overheat.
+  - 'Fill in the blank: Select the correct answer and drag it over the sentence.'
+  - If the coolant nozzle is not positioned correctly the wheel may _____.

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: GrindingWheelPanel
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 88ae4203b18b0c947a833ca9ffed514b, type: 3}
+  - {fileID: 8300000, guid: 39ee503d75482474786d3b81a29a2073, type: 3}
+  - {fileID: 8300000, guid: dc58e8b22c67e1d418b28f673ee9d6fc, type: 3}
+  - {fileID: 8300000, guid: ca147a65cb1066e44b4cc0fdc40e93e9, type: 3}
+  - {fileID: 8300000, guid: e0a04b2268cbb0a48af9c552db13327e, type: 3}
+  voiceOverSubtitles:
+  - With the machine off, turn the grinding wheel with your hand.
+  - Visually check for any damage on the wheel.
+  - If no damage is found, turn the wheel on and let it run for 1 to 2 minutes.
+  - Observe if the wheel is balanced.
+  - Look at the wheel and click on any visible damage.

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d514f4c60fc194b95733db16f1ffc7, type: 3}
+  m_Name: Coolant Nozzle
+  m_EditorClassIdentifier: 
+  description: Wear safety glasses or a face shield. Coolant vapours and droplets
+    could damage your eyes.
+  title: Coolant Nozzle
+  popUpImage: {fileID: 21300000, guid: e7eeaa7862ea7f040a6cec9d5449c164, type: 3}
+  audioClip: {fileID: 8300000, guid: 5d3748078bf3c8243a0f2b5ffd605e8f, type: 3}

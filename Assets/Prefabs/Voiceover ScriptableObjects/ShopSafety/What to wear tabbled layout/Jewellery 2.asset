@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Jewellery 2
+  m_EditorClassIdentifier: 
+  section: 17
+  voiceOverClips:
+  - {fileID: 8300000, guid: e2a6622887213b342a24ee49bf00433d, type: 3}
+  - {fileID: 8300000, guid: 79e774f6656119842824640043c93701, type: 3}
+  voiceOverSubtitles:
+  - Do NOT ask your instructor for an exception!
+  - If you feel the need to discuss an exemption, you should contact the Program
+    Chair.

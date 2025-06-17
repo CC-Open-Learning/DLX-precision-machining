@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 1.1 - Power on before cleaning
+  m_EditorClassIdentifier: 
+  QuestionText: They were not put away, so a tool falls and jams the machine.
+  QuestionVoiceOver: {fileID: 8300000, guid: 9e62874e87f357f4e9a00a48c72a84ac, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: 0d404232091bdc6488419279c8bc188b, type: 2}
+    optionText: Try Again
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 8300000, guid: f6b4263e1be6ffc448fc2ea76080d359, type: 3}
+  IsFeedback: 1
+  AnimationString: ToolFallingInLathe
+  IsLastScreen: 0

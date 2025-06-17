@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 3 - Cutting Size
+  m_EditorClassIdentifier: 
+  QuestionText: What is the correct cutting size?
+  QuestionVoiceOver: {fileID: 8300000, guid: 2b3ce2908cc117d4189e18b31a16e17b, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: a42e6ee121dc7cb49803e27a2ea714b5, type: 2}
+    optionText: Less than 0.001 inches
+    optionImage: {fileID: 21300000, guid: f7d2333b30d8012468aef0d83d738707, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: 6b64075d9be34844e8e9bd3bf9fb7edf, type: 3}
+  - optionScreen: {fileID: 11400000, guid: 3c82cc3524e91e946b5bc10235a2e7d5, type: 2}
+    optionText: A large cut
+    optionImage: {fileID: 21300000, guid: f18b71aa0e71f014eb29d10644487b36, type: 3}
+    descriptiveAudio: {fileID: 8300000, guid: f26128213272e1b46a4644c65d96f6bd, type: 3}
+  IsFeedback: 0
+  AnimationString: 
+  IsLastScreen: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24cf014740e3d8d46b5e559483210b30, type: 3}
+  m_Name: 2.2 - Tight
+  m_EditorClassIdentifier: 
+  QuestionText: Correct, placing the workpiece correctly will prevent it from being
+    thrown.
+  QuestionVoiceOver: {fileID: 8300000, guid: f1ac305cb04845541ba1d046aef74c6a, type: 3}
+  backgroundImage: {fileID: 0}
+  Choices:
+  - optionScreen: {fileID: 0}
+    optionText: 
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 0}
+  - optionScreen: {fileID: 11400000, guid: 8cf3759f4309b5e458231404960e0b4c, type: 2}
+    optionText: Continue
+    optionImage: {fileID: 0}
+    descriptiveAudio: {fileID: 8300000, guid: 13c03c518789c9941b58d9e5cf5aacac, type: 3}
+  IsFeedback: 1
+  AnimationString: No Gap
+  IsLastScreen: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Milling Introduction 1
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 74649fb52800a824f9c0cee21bdd2636, type: 3}
+  - {fileID: 8300000, guid: f4073d6eae302584eae8077929082da7, type: 3}
+  - {fileID: 8300000, guid: 57a83ef54737e474f9c13947f51650ed, type: 3}
+  voiceOverSubtitles:
+  - The milling machine removes material by advancing a rotating cutter into the
+    stationary workpiece.
+  - The operator can change the cutter direction to a different axis, or can change
+    the speed and pressure.
+  - 'Click the highlighted area to zoom in and learn more. '

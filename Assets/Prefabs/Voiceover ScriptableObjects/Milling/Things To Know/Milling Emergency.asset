@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Milling Emergency
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 3156123b543009745a97c44e62ca72ca, type: 3}
+  - {fileID: 8300000, guid: b67931af86f34c040b1b99f587322139, type: 3}
+  - {fileID: 8300000, guid: 03582f9e14f8f2a458bf0573df69bc97, type: 3}
+  - {fileID: 8300000, guid: 0021d196dc1e06942af9391981e17f1d, type: 3}
+  - {fileID: 8300000, guid: f3ee08d0e5c449441a1ea339b5ef88d9, type: 3}
+  voiceOverSubtitles:
+  - In case of emergency, press the e-stop to stop the motor.
+  - Stopping the motor does not stop the spindle immediately, it will coast to a
+    stop.
+  - To stop the spindle you must apply the brake.
+  - Never apply the brake before stopping the motor.
+  - Click on the image in the correct order to stop the spindle.

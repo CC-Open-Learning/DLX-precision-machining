@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: Workpiece
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 0ef51befbf9bd14409d67fd0fd1b4834, type: 3}
+  - {fileID: 8300000, guid: 01c5119361a7429468795ad2d706405f, type: 3}
+  - {fileID: 8300000, guid: 41b6f37a0b2a9014b83adaec83d774c8, type: 3}
+  - {fileID: 8300000, guid: 4af6a70da52328947950df98e13ca596, type: 3}
+  voiceOverSubtitles:
+  - When setting up the workpiece it should be tight and without gaps.
+  - If the workpiece is not properly secured, it could go flying when the chuck rotates.
+  - This could cause serious injuries.
+  - Find the error in the image! Click on what's wrong.

@@ -1,0 +1,779 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5596465263881920363
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1149031948348631721, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Feedback Image
+      objectReference: {fileID: 0}
+    - target: {fileID: 2247690953750579973, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Feedback Image
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5afa933f64cfe524497d486b4db407b0,
+        type: 3}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.7176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791335823327369986, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869230099923791808, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Feedback Image
+      objectReference: {fileID: 0}
+    - target: {fileID: 4187412507125552324, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5afa933f64cfe524497d486b4db407b0,
+        type: 3}
+    - target: {fileID: 4477227985243165366, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Feedback Image
+      objectReference: {fileID: 0}
+    - target: {fileID: 5399091630136136736, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5afa933f64cfe524497d486b4db407b0,
+        type: 3}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798921460443468354, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6682533944013096964, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: subtitles.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6682533944013096964, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: subtitles.Array.data[0]
+      value: Safety footwear is always required in the shop. What symbol identifies
+        CSA-approved safety footwear appropriate in the shop?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6682533944013096964, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: voiceOverClips.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6682533944013096964, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: voiceOverClips.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 1a6031a53144ac54ebe2212886210241, type: 3}
+    - target: {fileID: 6813829486896764585, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092770, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092770, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092770, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092770, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092771, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: SD Symbol
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092797, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 105337d3314f4fc4a89b82b958c98383,
+        type: 3}
+    - target: {fileID: 8420312160539092797, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092799, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: fc94e5e5335d14c4c833c8b95259dbba, type: 3}
+    - target: {fileID: 8420312160539092799, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: CorrectAnswer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092799, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: 'Remember that the CSA uses different symbols to identify the level
+        and type of protection the safety footwear provides. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160539092799, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: clickTransparency
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074696, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: SafetyFootwearQuiz
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: CompleteTabGroupAfterQuiz
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: OnTabSelected
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: TabGroup, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: TabGroup, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074698, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: onQuizCompleted.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: Tab, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160661074699, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483428, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: fc94e5e5335d14c4c833c8b95259dbba, type: 3}
+    - target: {fileID: 8420312160718483428, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: 'Remember that the CSA uses different symbols to identify the level
+        and type of protection the safety footwear provides. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483428, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: clickTransparency
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483432, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Green Tree
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483434, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9a34fd0b77358734a8a58e230b9f87ae,
+        type: 3}
+    - target: {fileID: 8420312160718483434, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483435, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483435, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483435, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160718483435, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194068, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: cd4f285dcf44dbe4ca57d4b35b66a3a0, type: 3}
+    - target: {fileID: 8420312160840194068, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: CorrectAnswer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194068, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: 'Well done! The green triangle identifies safety footwear that can be
+        worn in the shop. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194068, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: clickTransparency
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194072, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: CSA Triangle
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194074, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f0652b4ebe06791499ef100c8f3a0f59,
+        type: 3}
+    - target: {fileID: 8420312160840194074, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194075, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194075, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194075, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312160840194075, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506089, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6ae852072b36d8e4d9d878890523ff5a,
+        type: 3}
+    - target: {fileID: 8420312161155506089, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506091, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: AudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: fc94e5e5335d14c4c833c8b95259dbba, type: 3}
+    - target: {fileID: 8420312161155506091, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: FeedbackMessage
+      value: 'Remember that the CSA uses different symbols to identify the level
+        and type of protection the safety footwear provides. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506091, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: clickTransparency
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506094, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506094, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506094, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506094, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161155506095, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Ohm Symbol
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673932, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161556673933, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Answers
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996560, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_text
+      value: Which symbol identifies the CSA-approved shoes required in the shop?
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996560, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_margin.w
+      value: 2.5680692
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996560, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_margin.y
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996560, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996561, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8420312161885996566, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Name
+      value: Question Text
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486845480466634510, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8935404807865444865, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 575e2906462578249bdf9ebd2797466c,
+        type: 3}
+    - target: {fileID: 8935404807865444865, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.6745098
+      objectReference: {fileID: 0}
+    - target: {fileID: 8935404807865444865, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.6627451
+      objectReference: {fileID: 0}
+    - target: {fileID: 8935404807865444865, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8935404807865444865, guid: d15e0ef41d7ecc944a260aa541126172,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.61960787
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d15e0ef41d7ecc944a260aa541126172, type: 3}
+--- !u!1 &4138903498331469896 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312160539092771, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 5596465263881920363}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1243919506399514528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4138903498331469896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: 7420d5b6df801284ca49edb163a7a00a, type: 3}
+--- !u!1 &4138903498923032772 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312161155506095, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 5596465263881920363}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7204828034787292160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4138903498923032772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: 88538f225e69c374487013c1e352977a, type: 3}
+--- !u!1 &4138903499091505283 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312160718483432, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 5596465263881920363}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2330891505889645440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4138903499091505283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: 34e898e09ff50904ea9f4c428b8debbb, type: 3}
+--- !u!1 &4138903499238180723 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312160840194072, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 5596465263881920363}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5698153776916473397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4138903499238180723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: f314c6f432d2bb145bf1038a85d13a10, type: 3}
+--- !u!1 &4138903500189030781 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8420312161885996566, guid: d15e0ef41d7ecc944a260aa541126172,
+    type: 3}
+  m_PrefabInstance: {fileID: 5596465263881920363}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7140887080058045845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4138903500189030781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acdc527d0f8ce204abc81e145f5b3325, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: 1a6031a53144ac54ebe2212886210241, type: 3}

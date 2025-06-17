@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa4d38c54c46f34082c00aed143c5dd, type: 3}
+  m_Name: GrinderIntroduction
+  m_EditorClassIdentifier: 
+  voiceOverClips:
+  - {fileID: 8300000, guid: 699c950a33b96d04a92e2f045df3b04c, type: 3}
+  - {fileID: 8300000, guid: 15ba82af3b4b37a4ab7859c4e3f2f784, type: 3}
+  - {fileID: 8300000, guid: d3e170f3f6ac7984eb02a4d551d40491, type: 3}
+  - {fileID: 8300000, guid: 5f1a917731ff62940835d713f896369b, type: 3}
+  voiceOverSubtitles:
+  - 'The surface grinder is used on flat surfaces '
+  - 'to create smooth finishes and resize workpieces '
+  - "by using an abrasive grinding wheel\u200B."
+  - The workpiece is attached to the table which moves it from side to side.
